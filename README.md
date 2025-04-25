@@ -32,7 +32,7 @@ A gramática aceita:
 (\wedge 1x true)
 (\neg (1y))
 (\rightarrow 2a (\vee false 1b))
-´´´
+```
 
 ## Como Executar
 - 1 Clonando o repositório
