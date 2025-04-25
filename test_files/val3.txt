@@ -1,0 +1,9 @@
+8
+(\rightarrow (\neg false) (\wedge 1a a2))
+(\leftrightarrow (\vee a1 b2) (\neg 9z))
+(\wedge (\neg (\neg true)) (\vee 0x false))
+(\leftrightarrow (\neg (\wedge true false)) (\vee x9 y8))
+(\rightarrow (\vee p1) q1)
+(\leftrightarrow true false)
+(\wedge (\neg true) (\vee))
+(\vee (\vee a1 b1))

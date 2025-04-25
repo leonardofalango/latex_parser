@@ -1,0 +1,4 @@
+3
+(\neg (\wedge true false))
+(p1)
+(\neg true)

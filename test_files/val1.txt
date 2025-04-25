@@ -1,0 +1,5 @@
+4
+(\neg true)
+(\wedge a1 3b)
+(\neg)
+(\vee (\neg 0x) false)
